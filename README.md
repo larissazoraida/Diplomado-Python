@@ -42,13 +42,14 @@ Luego ajustare la curva resultante a partir del avance ejecutado acumulado, Corr
 
 - `Google Colab` (Python)
   -Librerias:
-  numpy
-  pandas
-  datetime
-  matplotlib.pyplot
-  gspread
-  gspread_dataframe
-  google.auth
+  numpy/
+  pandas/
+  datetime/
+  matplotlib.pyplot/
+  seaborn/
+  gspread/
+  gspread_dataframe/
+  google.auth/
   google.colab 
   
 - `GitHub` (Portfolio)
