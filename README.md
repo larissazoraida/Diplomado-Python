@@ -1,9 +1,9 @@
-# edvai
-# 🧠 Proyecto Final - Bootcamp Data Analyst
+# Diplomado Python para Ingenieros - FIUNA
+# 🧠 Proyecto Final
 
 > Este repositorio contiene el trabajo final en el marco del Bootcamp de Data Analytics organizado por [Escuela de Datos Vivos].
 
-## 🔍 Objetivo
+## 🔍 Overview
 
 El objetivo principal es determinar si las obras se estan ejecutando de manera efectiva, esto es, identificar retrasos, variaciones presupuestarias ademas de promover la transparencia y la rendicion de cuentas.
 En el futuro se espera apliar este analisis con datos historicos para servir de apoyo en la planificacion y gestion de proyectos.
