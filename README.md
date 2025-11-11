@@ -1,5 +1,6 @@
-# Diplomado Python para Ingenieros - FIUNA
-# 🧠 Proyecto Final
+## Diplomado Python para Ingenieros - FIUNA
+
+# Ajuste y Extension de Curvas de Ejecucion
 
 > Este repositorio contiene el trabajo final en el marco del Bootcamp de Data Analytics organizado por [Escuela de Datos Vivos].
 
