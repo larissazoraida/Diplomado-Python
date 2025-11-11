@@ -13,10 +13,17 @@ El objetivo de este proyecto es desarrollar una metodología de re-proyección. 
 
 ---
 
-## 📊 Descripción del Proyecto
+## 📊 Desafios - Metodologia
 
-Este proyecto se centra en [el avance de las obras en etapa de ejecucion del Ministerio de obras publicas] a partir de [los datos de curvas y de contratos disponibles en el SICOE]. Para proveer una visión clara y en tiempo real de cómo estas se están desempeñando. 
-
-Se utilizo BigQuery para analisis exploratorio y calculo avanzado de valores relevantes para la tabla de hechos, asi como para crear organizar todo el datamart. Desde PowerQuery se realizaron otras transformaciones y calculos menores para obtener la visualizacion final el PowerBI.
+Algunas de las ideas iniciales para resolver el problema de la extension del plazo, buscando que la curva resultante tenga un comportamiento en lo mas parecido a su
+curva original fueron:
+- Aplicar metodos de machine learnig: (No poseemos datos historicos suficientes para entrenar un modelo, ni el tiempo necesario para desarrollarlo)
+- Aplicar un factor a cada avance programado mensual para "relentizar" la curva: (Si el factor fuera P habria un factor (1-P) de los avances de las curvas
+faltarian distribuir al final de la curva programada
+- Linearizar las curvas: reducir el Avance Mensual de las curvas a Avance mensual= 100% / Plazo*1,5
 
 ---
+
+## ⚙️ Metodologia Final
+
+### 
