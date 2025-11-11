@@ -1,5 +1,5 @@
 <p align="right">
-  <img src="carpeta_imagenes/logo2.png" alt="Logo" width="100">
+  <img src="carpeta_imagenes/logo2.png" alt="Logo" width="110">
 </p>
 
 ## Diplomado de Python para Ingenieros - FIUNA
