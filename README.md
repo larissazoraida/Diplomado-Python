@@ -48,3 +48,6 @@ Luego ajustare la curva resultante a partir del avance ejecutado acumulado, Corr
   google.colab 
   
 - `GitHub` (Portfolio)
+---
+
+## 📊 Resultados
