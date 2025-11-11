@@ -29,7 +29,7 @@ faltarian distribuir al final de la curva programada
 ### 
 <img src="carpeta_imagenes/metodologia_extension.png" alt="Metodologia de la Proyeccion" width="800" />
 Lo que se busca lograr es analogo a decir que el avance que tenia planificado para un mes, realmente lo hare en 1,5 meses.
-La metodologoa final utilizada sera una suerte de artificio matematico dado que
+La metodologia final utilizada sera una suerte de artificio matematico dado que
 3/2 = 1,5
 cada avance mensual partire en 3 partes y las agrupare en pares.
 Luego ajustare la curva resultante a partir del avance ejecutado acumulado, Corriendo la fecha actual desde ese Avance
