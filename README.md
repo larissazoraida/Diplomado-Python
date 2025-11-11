@@ -57,11 +57,13 @@ Luego ajustare la curva resultante a partir del avance ejecutado acumulado, Corr
 
 ## 📊 Resultados
 
-### 
+### Curva Programada y Avance ejecutado a la fecha
 <img src="carpeta_imagenes/curva_original.png" alt="Curva Programada y Avance ejecutado a la fecha" width="800" />
+
 En el cruce de la curva programada y el avance ejecutado a la fecha, se puede apreciar que la ejecucion se encuentra levemente adelantada con respecto a lo
 programado, y que a partir de ese punto quedan 11 meses para finalizar la obra.
-### 
+
+### Curva Extendida a partir del punto de avance actual
 <img src="carpeta_imagenes/curva_extendida.png" alt="Curva Extendida a partir del punto de avance actual" width="800" />
 
 En la curva extendida podemos apreciar como la nueva programacion parte del avance ejecutado a la fecha y el nuevo plazo pendiente es de 16 meses.
