@@ -33,3 +33,18 @@ La metodologoa final utilizada sera una suerte de artificio matematico dado que
 3/2 = 1,5
 cada avance mensual partire en 3 partes y las agrupare en pares.
 Luego ajustare la curva resultante a partir del avance ejecutado acumulado, Corriendo la fecha actual desde ese Avance
+
+## 🛠️ Herramientas y Librerias
+
+- `Google Colab` (Python)
+  -Librerias:
+  numpy
+  pandas
+  datetime
+  matplotlib.pyplot
+  gspread
+  gspread_dataframe
+  google.auth
+  google.colab 
+  
+- `GitHub` (Portfolio)
