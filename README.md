@@ -27,5 +27,4 @@ faltarian distribuir al final de la curva programada
 ## 💡 Metodologia Final
 
 ### 
-![Metodologia de la Extension](carpeta_imagenes/metodologia_extension.png)
 <img src="carpeta_imagenes/metodologia_extension.png" alt="Metodologia de la Proyeccion" width="800" />
