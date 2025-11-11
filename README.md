@@ -39,7 +39,7 @@ La metodologia final utilizada sera una suerte de artificio matematico dado que
 cada avance mensual redistribuire en 3 partes y estas partes las agrupare en pares.
 Luego ajustare la curva resultante a partir del avance ejecutado acumulado, Corriendo la fecha actual desde ese Avance
 
-## 🛠️ Herramientas y Librerias
+### 🛠️ Herramientas y Librerias
 
 - `Google Colab` (Python)
   -Librerias:
