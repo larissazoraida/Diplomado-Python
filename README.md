@@ -61,4 +61,4 @@ Luego ajustare la curva resultante a partir del avance ejecutado acumulado, Corr
 <img src="carpeta_imagenes/curva_original.png" alt="Curva Programada y Avance ejecutado a la fecha" width="800" />
 
 ### 
-<img src="carpeta_imagenes/curva extendida.png" alt="Curva Extendida a partir del punto de avance actual" width="800" />
+<img src="carpeta_imagenes/curva_extendida.png" alt="Curva Extendida a partir del punto de avance actual" width="800" />
