@@ -13,7 +13,7 @@
 Las obras civiles se enmarcan en un cronograma para su ejecucion, el mismo cronograma se expresa como porcentajes de ejecucion sobre el monto total estimado. De esta
 manera podemos proyectar los montos que se esperan desembolsar en obras por año.
 Si bien estas curvas programaticas sirven de referencia, siempre existe un desfase (positivo o negativo) entre la ejecucion real y la esperada segun el cronograma.
-El objetivo de este proyecto es desarrollar una metodología de re-proyección. Primero, se ajustará la Curva programática restante, partiendo del avance real ejecutado a la fecha. En segundo lugar, se simulará un escenario de contingencia donde se implementa una extensión del plazo del 50% sobre la duración original de la obra, con el fin de proyectar su nuevo perfil de desembolsos anuales.
+El objetivo de este proyecto es desarrollar una metodología de re-proyección. Primero, se ajustará la curva programática restante, partiendo del avance real ejecutado a la fecha. En segundo lugar, se simulará un escenario de contingencia donde se implementa una extensión del plazo del 50% sobre la duración original de la obra, con el fin de proyectar su nuevo perfil de desembolsos anuales.
 
 ---
 
@@ -36,7 +36,7 @@ a muchas curvas, que son mas de 100, el error de aproximacion incrementa)
 Lo que se busca lograr es analogo a decir que el avance que tenia planificado para un mes, realmente lo hare en 1,5 meses.
 La metodologia final utilizada sera una suerte de artificio matematico dado que
 3/2 = 1,5
-cada avance mensual partire en 3 partes y las agrupare en pares.
+cada avance mensual redistribuire en 3 partes y estas partes las agrupare en pares.
 Luego ajustare la curva resultante a partir del avance ejecutado acumulado, Corriendo la fecha actual desde ese Avance
 
 ## 🛠️ Herramientas y Librerias
