@@ -5,8 +5,10 @@
 
 ## 🔍 Overview
 
-El objetivo principal es determinar si las obras se estan ejecutando de manera efectiva, esto es, identificar retrasos, variaciones presupuestarias ademas de promover la transparencia y la rendicion de cuentas.
-En el futuro se espera apliar este analisis con datos historicos para servir de apoyo en la planificacion y gestion de proyectos.
+Las obras civiles se enmarcan en un cronograma para su ejecucion, el mismo cronograma se expresa como porcentajes de ejecucion sobre el monto total estimado. De esta
+manera podemos proyectar los montos que se esperan desembolsar en obras por año.
+Si bien estas curvas programaticas sirven de referencia, siempre existe un desfase (positivo o negativo) entre la ejecucion real y la esperada segun el cromograma.
+El objetivo de este proyecto es desarrollar una metodología de re-proyección. Primero, se ajustará la Curva programática restante, partiendo del avance real ejecutado a la fecha. En segundo lugar, se simulará un escenario de contingencia donde se implementa una extensión del plazo del 50% sobre la duración original de la obra, con el fin de proyectar su nuevo perfil de desembolsos anuales.
 
 ---
 
