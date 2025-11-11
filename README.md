@@ -31,7 +31,7 @@ faltarian distribuir al final de la curva programada
 ## 💡 Metodologia Final
 
 ### 
-<img src="carpeta_imagenes/metodologia_extension.png" alt="Metodologia de la Proyeccion" width="800" />
+<img src="carpeta_imagenes/metodologia.png" alt="Metodologia de la Proyeccion" width="800" />
 Lo que se busca lograr es analogo a decir que el avance que tenia planificado para un mes, realmente lo hare en 1,5 meses.
 La metodologia final utilizada sera una suerte de artificio matematico dado que
 3/2 = 1,5
