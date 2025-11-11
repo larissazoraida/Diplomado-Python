@@ -24,7 +24,8 @@ curva original fueron:
 - Aplicar metodos de machine learnig: (No poseemos datos historicos suficientes para entrenar un modelo, ni el tiempo necesario para desarrollarlo)
 - Aplicar un factor a cada avance programado mensual para "relentizar" la curva: (Si el factor fuera P habria un factor (1-P) de los avances de las curvas
 faltarian distribuir al final de la curva programada
-- Linearizar las curvas: reducir el Avance Mensual de las curvas a Avance mensual= 100% / Plazo*1,5
+- Linearizar las curvas: reducir el Avance Mensual de las curvas a Avance mensual= 100% / Plazo*1,5 (las curvas tienen comportamientos variados y al aplicar eso
+a muchas curvas, que son mas de 100, el error de aproximacion incrementa)
 
 ---
 
