@@ -13,7 +13,7 @@ El objetivo de este proyecto es desarrollar una metodología de re-proyección. 
 
 ---
 
-## 📊 Desafios - Metodologia
+## ⚙️ Desafios - Metodologia
 
 Algunas de las ideas iniciales para resolver el problema de la extension del plazo, buscando que la curva resultante tenga un comportamiento en lo mas parecido a su
 curva original fueron:
@@ -24,6 +24,6 @@ faltarian distribuir al final de la curva programada
 
 ---
 
-## ⚙️ Metodologia Final
+## 💡 Metodologia Final
 
 ### 
