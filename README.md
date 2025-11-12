@@ -1,6 +1,6 @@
 <p align="right">
   <img src="carpeta_imagenes/logo2.png" alt="Logo" width="110">
-</p>
+
 
 ## Diplomado de Python para Ingenieros - FIUNA
 # Ajuste y Extension de Curvas de Ejecucion
