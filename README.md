@@ -6,8 +6,6 @@
 # Ajuste y Extension de Curvas de Ejecucion
 
 > Este repositorio contiene el trabajo final en el marco del Diplomado de Python para Ingenieros organizado por [Facultad de Ingenieria - UNA].
-### Abstract
-Suavizacion de curvas libres - Smoothing free-form curves
 
 
 ## 🔍 Overview
@@ -16,6 +14,8 @@ Las obras civiles se enmarcan en un cronograma para su ejecucion, el mismo crono
 manera podemos proyectar los montos que se esperan desembolsar en obras por año.
 Si bien estas curvas programaticas sirven de referencia, siempre existe un desfase (positivo o negativo) entre la ejecucion real y la esperada segun el cronograma.
 El objetivo de este proyecto es desarrollar una metodología de re-proyección. Primero, se ajustará la curva programática restante, partiendo del avance real ejecutado a la fecha. En segundo lugar, se simulará un escenario de contingencia donde se implementa una extensión del plazo del 50% sobre la duración original de la obra, con el fin de proyectar su nuevo perfil de desembolsos anuales.
+### Keywords
+Suavizacion de curvas libres - Smoothing free-form curves
 
 ---
 
