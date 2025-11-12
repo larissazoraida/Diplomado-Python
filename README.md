@@ -3,10 +3,9 @@
 </p>
 
 ## Diplomado de Python para Ingenieros - FIUNA
-
 # Ajuste y Extension de Curvas de Ejecucion
 
-###Smoothing free-form curves
+### Smoothing free-form curves
 
 > Este repositorio contiene el trabajo final en el marco del Diplomado de Python para Ingenieros organizado por [Facultad de Ingenieria - UNA].
 
